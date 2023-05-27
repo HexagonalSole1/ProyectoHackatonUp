@@ -13,9 +13,6 @@ function App() {
         <Route path='/Login' element={ <Login/>}></Route>
         <Route path='/PaginaPrincipal' element={ <PaginaPrincipal/>}></Route>
 
-
-        {/* <Route path='/personaje/:id' element={<Personaje> </Personaje>}></Route> */}
-
       </Routes>
     </BrowserRouter>
   </div>
