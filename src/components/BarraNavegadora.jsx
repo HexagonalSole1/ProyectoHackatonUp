@@ -8,7 +8,7 @@ function BarraNavegadora() {
                 <input type="text" className='Buscador' />
             </div>
             <div className='DivMusica'>
-
+            
             </div>
             <div className='DivLista'>
 
