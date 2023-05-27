@@ -2,3 +2,25 @@
     background-color: #F0F0F0;
     width: 25%;
 }
+.ChatFondo {
+    width: 320px;
+    height: 710px;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 49px;
+    margin: auto;
+    margin-top: 15px;
+}
+
+.ChatComentario {
+    width: 300px;
+    height: 43px;
+    margin: auto;
+    margin-top: 15px;
+    background: #4C74DA;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 45px;
+    border: none;
+    margin-left: 20px;
+    padding-left: 20px;
+}
