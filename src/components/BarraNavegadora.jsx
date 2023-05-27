@@ -9,13 +9,13 @@ function BarraNavegadora() {
             </div>
             <div className='DivMusica'>
             <CardCancion
-                nombre = "a"
-                autor = "b"
+                nombre = "Rextro"
+                autor = "RexTheRex"
                 className = "reproducir"
             />
             <CardCancion
-                nombre = "a"
-                autor = "b"
+                nombre = "Waos"
+                autor = "Cheems"
                 className = "reproducir"
             />
             </div>
