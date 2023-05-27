@@ -4,7 +4,7 @@
 }
 .ChatFondo {
     width: 320px;
-    height: 710px;
+    height: 650px;
     background: #FFFFFF;
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
     border-radius: 49px;
@@ -21,6 +21,100 @@
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
     border-radius: 45px;
     border: none;
+    outline:none;
     margin-left: 20px;
     padding-left: 20px;
+}
+
+.ChatComentario:active {
+    border: none;
+    outline:none;
+}
+
+.ChatSesion {
+    width: 145px;
+    height: 43px;
+    border-radius: 45px;
+    float: right;
+    border: none;
+    cursor: pointer;
+    transition-duration: 0.4s;
+    background: #BF3030;
+    margin-top: 7px;
+    margin-right: 20px;
+    color: white;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.ChatSesion:hover {
+    width: 145px;
+    height: 43px;
+    background: #881717;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 45px;
+    color: white;
+    border: none;
+    outline:none;
+}
+
+.SesionContainer {
+    height: 45px;
+}
+
+.ChatComentarioIn {
+    list-style-type:none;
+    margin: auto;
+    float: left;
+    margin-top: 10px;
+}
+
+.Comentario1 {
+    width: 289px;
+    height: 71px;
+    background: #FF7D7D;
+    box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 45px;
+    margin-left: 10px;
+    text-align: center;
+}
+.Comentario2 {
+    width: 289px;
+    height: 71px;
+    background: #FF7D7D;
+    box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 45px;
+    margin-left: 10px;
+    text-align: center;
+}
+.Comentario3 {
+    width: 289px;
+    height: 71px;
+    background: #FF7D7D;
+    box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 45px;
+    margin-left: 10px;
+    text-align: center;
+}
+.Comentario4 {
+    width: 289px;
+    height: 71px;
+    background: #FF7D7D;
+    box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 45px;
+    margin-left: 10px;
+    text-align: center;
+}
+.Comentario5 {
+    width: 289px;
+    height: 71px;
+    background: #FF7D7D;
+    box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 45px;
+    margin-left: 10px;
+    text-align: center;
+}
+
+ul {
+    padding: 0;
+    list-style-type: none;
 }
