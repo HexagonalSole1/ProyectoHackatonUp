@@ -1,4 +1,4 @@
-import React from 'react'
+import CardCancion from './Cancion'
 import '../css/BarraNavegadora.css'
 
 function BarraNavegadora() {
@@ -8,7 +8,16 @@ function BarraNavegadora() {
                 <input type="text" className='Buscador' />
             </div>
             <div className='DivMusica'>
-
+            <CardCancion
+                nombre = "a"
+                autor = "b"
+                className = "reproducir"
+            />
+            <CardCancion
+                nombre = "a"
+                autor = "b"
+                className = "reproducir"
+            />
             </div>
             <div className='DivLista'>
 
