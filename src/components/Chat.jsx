@@ -1,8 +1,12 @@
 import React from 'react'
+import '../css/Chat.css'
 
 function Chat() {
   return (
-    <div>Chat</div>
+    <div className='ChatContainer'>
+        Chat
+
+    </div>
   )
 }
 

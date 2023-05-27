@@ -4,7 +4,7 @@ import '../css/BarraNavegadora.css'
 function BarraNavegadora() {
   return (
     <div className='BarraNavegadoraContainer'>
-        <p>dsmds</p>
+        <p>BarradeNavegacion</p>
     </div>
   )
 }

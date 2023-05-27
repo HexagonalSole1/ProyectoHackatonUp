@@ -1,6 +1,7 @@
 .BarraNavegadoraContainer{
-    height: 30%;
-    width: 0%;
+    display: flex;
+    width: 25%;
+   
     background-color: red;
 
 }
