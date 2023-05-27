@@ -5,14 +5,14 @@ function Reproductor() {
     return (
         <div className='ReproductorContainer'>
             <div className='DivLetra'>
-                <h1>dksksd</h1>
+                <p className='Letra'>dksksd</p>
             </div>
           <div className='DivBarraNavegacion'>
             <button className='BotonAmarillo'> </button>
             <button className='BotonNaranja'> </button>
+            <button className='BotonRojo'> </button>
             <button className='BotonNaranja'> </button>
-            <button className='BotonNaranja'> </button>
-            <button className='BotonNaranja'>  </button>
+            <button className='BotonAmarillo'>  </button>
 
           </div>
 
